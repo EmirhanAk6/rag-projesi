@@ -1,0 +1,5 @@
+Foundry Local, Microsoft'un cihaz üzerinde yapay zeka modelleri çalıştırmayı sağlayan aracıdır. İnternet bağlantısı olmadan, tamamen yerel çalışır ve verileriniz cihazdan dışarı çıkmaz.
+
+RAG, yani Retrieval-Augmented Generation, bir dil modelinin kendi belgelerinize dayanarak cevap vermesini sağlar. Önce soruya en yakın metin parçaları bulunur, sonra bu parçalar modele bağlam olarak verilir.
+
+Embedding, bir metni anlamını temsil eden sayı dizisine çevirmektir. Anlamca benzer metinlerin vektörleri de birbirine yakın olur; böylece kelime birebir eşleşmese bile ilgili içerik bulunur.

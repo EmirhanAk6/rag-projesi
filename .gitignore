@@ -1,0 +1,5 @@
+rag-env/
+models/
+rag.db
+__pycache__/
+*.pyc
